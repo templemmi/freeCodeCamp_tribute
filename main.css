@@ -1,0 +1,77 @@
+body {
+  background-color:white;
+  font-family: Monospace;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+	color: black;
+}
+
+#wrapper {
+  margin: 5% auto 0 auto;
+  width: 80%;
+  background-color: #eff2f5;
+  border-radius: 2%
+}
+h1 {
+  padding-top: 8%;
+  font-size: 5em;
+}
+
+#img-area {
+  margin: 1% 5% 3% 5%;
+  background-color: white;
+  border-radius:2%;
+}
+
+img {
+  margin: auto;
+  padding: 0 6%;
+}
+
+#photo-text {
+  padding: 3%;
+}
+
+#timeline-area {
+	margin: 0 10%;
+	width: 80%;
+	padding: 3% 0;
+}
+
+#timeline-area h2 {
+	padding-bottom: 2%;
+}
+
+#timeline-area ul {
+  list-style: none;
+}
+
+.timeline-item {
+	line-height: 2.5em;
+	font-size: 1.2em;
+}
+
+#quote-area {
+	margin: 0 5%;
+	padding-bottom: 2%;
+}
+
+#author {
+  padding-top: 2%;
+  color:gray;
+}
+
+h3 {
+  padding-bottom: 8%;
+}
+
+hr {
+ margin-top: 2%;
+ width: 80%;
+}
